@@ -6,7 +6,7 @@ Run Hashcat in Google Colab with built-in Hashid and OneRuleToRuleThemAll
 
 2. Credits to Daniel Miessler and his SecLists Repo: https://github.com/danielmiessler/SecLists
 
-3. Credits to Stealthspolit for the OneRuleToRuleThemAll: https://github.com/stealthsploit/Optimised-hashcat-Rule
+3. Credits to Stealthsploit for the OneRuleToRuleThemAll: https://github.com/stealthsploit/Optimised-hashcat-Rule
 
 ## Prerequisites
 1. Go to your Google Drive http://drive.google.com
@@ -18,6 +18,6 @@ Run Hashcat in Google Colab with built-in Hashid and OneRuleToRuleThemAll
 1. Simply open https://colab.research.google.com/drive/1yil_iLncAjg0waS3dB5C5Q_GjdH6Nfo1?usp=sharing
 2. Make sure the _**Hardware Accelerator**_ is set to GPU. You will find this in _**Runtime -> Change Runtime Type**_.
 3. Click on _**Runtime -> Run All**_.
-4. In the second cell of the notepad you will be asked for autorization. Simply click on the link and follow the given instructions.
-5. The script will clone and install the required parts and ask you for the Hascat Mode in cell four, which you will find in the output of cell three.
+4. In the second cell of the notepad you will be asked for authorization. Simply click on the link and follow the given instructions.
+5. The script will clone and install the required parts and ask you for the Hashcat Mode in cell #4, which you will find in the output of cell #3.
 6. Happy Cracking!
