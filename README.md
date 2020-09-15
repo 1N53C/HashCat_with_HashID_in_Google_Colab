@@ -1,5 +1,6 @@
 # ColabCatWithHashIDandRules
 Run Hashcat in Google Colab with built-in Hashid and OneRuleToRuleThemAll
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yil_iLncAjg0waS3dB5C5Q_GjdH6Nfo1?usp=sharing)
 
 ## Credits
 1. This Repo and the Google Colab is based on the work of Somesh Kar. Somesh was a great inspiration. You can find his repo here: https://github.com/someshkar/colabcat
