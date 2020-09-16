@@ -25,3 +25,6 @@ Run Hashcat in Google Colab with built-in Hashid and OneRuleToRuleThemAll
 4. In the second cell of the notepad you will be asked for authorization. Simply click on the link and follow the given instructions.
 5. The script will clone and install the required parts and ask you for the Hashcat Mode in cell #4, which you will find in the output of cell #3.
 6. Happy Cracking!
+
+## Known Issues
+1. For some reason the hash mode seems to be not found in the first run. In this case rerun cells #3 and #4.
