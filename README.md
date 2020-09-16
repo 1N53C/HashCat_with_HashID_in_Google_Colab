@@ -16,6 +16,8 @@ Run Hashcat in Google Colab with built-in Hashid and OneRuleToRuleThemAll
 3. Create a subfolder within named _**hashes**_.
 4. Store your hash in the _**hashes**_ subfolder and name it _**hash**_ without file extension.
 
+![File Structure](https://raw.githubusercontent.com/1N53C/ColabCatWithHashIDandRules/master/GoogleDriveHash.png)
+
 ## Instructions
 1. Simply open https://colab.research.google.com/drive/1yil_iLncAjg0waS3dB5C5Q_GjdH6Nfo1?usp=sharing
 2. Make sure the _**Hardware Accelerator**_ is set to GPU. You will find this in _**Runtime -> Change Runtime Type**_.
