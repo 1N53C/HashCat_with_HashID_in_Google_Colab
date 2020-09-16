@@ -1,4 +1,4 @@
-# ColabCatWithHashIDandRules
+# ColabCat With HashID And Rules
 Run Hashcat in Google Colab with built-in Hashid and OneRuleToRuleThemAll
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yil_iLncAjg0waS3dB5C5Q_GjdH6Nfo1?usp=sharing)
