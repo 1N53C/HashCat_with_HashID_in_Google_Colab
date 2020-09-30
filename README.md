@@ -19,6 +19,7 @@ Run Hashcat in Google Colab with built-in Hashid and OneRuleToRuleThemAll
 ![File Structure](https://raw.githubusercontent.com/1N53C/ColabCatWithHashIDandRules/master/GoogleDriveHash.png)
 
 ## Instructions
+        
 1. Simply open https://colab.research.google.com/drive/1yil_iLncAjg0waS3dB5C5Q_GjdH6Nfo1?usp=sharing
 2. Make sure the _**Hardware Accelerator**_ is set to GPU. You will find this in _**Runtime -> Change Runtime Type**_.
 3. Click on _**Runtime -> Run All**_.
